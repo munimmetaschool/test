@@ -7,3 +7,7 @@ This course is for beginner web3 developers who wish to learn about Avalanche bl
 <a href="https://metaschool.so/articles/consensus-mechanism-meaning/" target="_blank">consensus mechanism</a>
 
 [Opens in new tab](https://external.ink?to=/metaschool.so/articles/consensus-mechanism-meaning/)
+
+[Link](https://metaschool.so/articles/consensus-mechanism-meaning/){target="_blank"}
+
+<a href="https://metaschool.so/articles/consensus-mechanism-meaning/" rel="nofollow" title="title&quot; target=&quot;_blank">Link</a>
